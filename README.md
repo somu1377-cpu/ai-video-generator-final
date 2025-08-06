@@ -1,2 +1,3 @@
-# ai-video-generator-final
-AI tool
+# AI Video Generator
+
+This is the final working project.
